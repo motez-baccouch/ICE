@@ -57,6 +57,10 @@
 				"Win64",
 				"HoloLens"
 			]
+		},
+		{
+			"Name": "DatasmithGLTFImporter",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
