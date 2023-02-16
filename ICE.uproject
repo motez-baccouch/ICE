@@ -58,7 +58,10 @@
 				"HoloLens"
 			]
 		},
-		
+		{
+			"Name": "DatasmithGLTFImporter",
+			"Enabled": true
+		}
 	],
 	"TargetPlatforms": [
 		"Android",
