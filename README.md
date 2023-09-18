@@ -1,4 +1,4 @@
-# ICE New Trains VR Simulation
+# IC
 
 
 ![image](https://github.com/motez-baccouch/ICE/assets/80569257/8ed72408-e56f-4929-a3fa-163f8222584c)
@@ -6,7 +6,7 @@
 
 ## Overview
 
-Welcome to the ICE New Trains VR Simulation project! This project aims to create an immersive 3D virtual reality (VR) application for implementing VR headsets inside the new InterCity Express (ICE) trains in Germany. This README provides an overview of the project, installation instructions, and other essential information for contributors and users.
+Welcome to the ICE New Trains  project! This project aims to create an immersive 3D virtual reality (VR) application for implementing VR headsets inside the new InterCity Express (ICE) trains in Germany. This README provides an overview of the project, installation instructions, and other essential information for contributors and users.
 
 ### Table of Contents
 
